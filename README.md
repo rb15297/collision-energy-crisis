@@ -1,5 +1,3 @@
-# Collision Energy Crisis (student site)
+# Collision Energy Crisis — student site
 
-Public static host for the 4th Grade NGSS Speed, Collisions & Energy Transfer escape room.
-
-Teacher materials are **not** in this repo — only the click-and-assign student site.
+Self-paced classroom student site. Teacher guides not included.
